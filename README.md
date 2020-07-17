@@ -1,4 +1,4 @@
-# psoc5-cmsis
+# psoc5-cmsis-rtx2
 CMSIS-RTOS RTX2 port on PSoC 5LP CY8CKIT-059 Kit example
 
 ### Build project steps:
