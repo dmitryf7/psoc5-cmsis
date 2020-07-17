@@ -50,3 +50,16 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+*.rpt
+*.svd
+*.cycdx
+*.cyfit
+*.log
+**/*.cyprj.*
+*.cywrk.*
+**/codegentemp
+**/CortexM3
+**/Export
+**/Generated_Source
+**/main_timing.html
